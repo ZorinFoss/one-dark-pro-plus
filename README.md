@@ -1,6 +1,6 @@
 # Zed One Dark Pro Plus Theme
 
-Based on the default VSCode [One Dark Pro]() Theme
+Based on the default VSCode [One Dark Pro](https://github.com/Binaryify/OneDark-Pro) Theme
 
 ![Theme Preview](preview.png)
 
