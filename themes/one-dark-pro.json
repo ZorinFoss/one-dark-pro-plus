@@ -1,9 +1,9 @@
 {
-  "name": "One Dark Pro",
-  "author": "One Dark Pro: Zed Theme Importer",
+  "name": "One Dark Pro Plus",
+  "author": "ZorinFoss",
   "themes": [
     {
-      "name": "One Dark Pro",
+      "name": "One Dark Pro Plus",
       "appearance": "dark",
       "style": {
         "border": "#3e4452",
@@ -325,7 +325,7 @@
             "font_weight": null
           },
           "string.regex": {
-            "color": "#e06c75",
+            "color": "#56b6c2",
             "font_style": null,
             "font_weight": null
           },
