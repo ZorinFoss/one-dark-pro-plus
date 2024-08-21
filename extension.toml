@@ -1,6 +1,6 @@
 id = "one-dark-pro-plus"
 name = "One Dark Pro Plus Theme"
-version = "0.0.1"
+version = "0.0.3"
 schema_version = 1
 description = "One Dark Pro Plus Theme for Zed"
 repository = "https://github.com/ZorinFoss/zed-one-dark-pro-plus"
