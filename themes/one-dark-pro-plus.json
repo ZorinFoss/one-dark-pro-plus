@@ -93,7 +93,7 @@
         "terminal.ansi.dim_magenta": "#683478",
         "terminal.ansi.dim_cyan": "#1A4F54",
         "terminal.ansi.dim_white": "#464646",
-        "link_text.hover": "#74ade8",
+        "link_text.hover": "#61afef",
         "conflict": "#dec184",
         "conflict.background": "#41321d",
         "conflict.border": "#5d4c2f",
@@ -115,7 +115,7 @@
         "ignored": "#838994",
         "ignored.background": "#282c34",
         "ignored.border": "#464b57",
-        "info": "#74ade8",
+        "info": "#61afef",
         "info.background": "#18243d",
         "info.border": "#293b5b",
         "modified": "#dec184",
@@ -124,7 +124,7 @@
         "predictive": "#5a6a87",
         "predictive.background": "#222e1d",
         "predictive.border": "#38482f",
-        "renamed": "#74ade8",
+        "renamed": "#61afef",
         "renamed.background": "#18243d",
         "renamed.border": "#293b5b",
         "success": "#a1c181",
@@ -365,7 +365,7 @@
             "font_weight": null
           },
           "variable.special": {
-            "color": "#e5c07b",
+            "color": "#d19a66",
             "font_style": null,
             "font_weight": null
           },
